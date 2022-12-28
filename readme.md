@@ -11,4 +11,4 @@ Tutorial scripts to learn how to code with javascript
 
 ### Run code
 
-node {your file path}
+node src/{your file path}

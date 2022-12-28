@@ -1,12 +1,14 @@
 # JAVASCRIPT
 
+### Description
+
 Tutorial scripts to learn how to code with javascript
 
-# SETUP
+### Setup
 
 Install node in your local
 (WIP) Dockerize repository
 
-# RUN CODE
+### Run code
 
 node {your file path}

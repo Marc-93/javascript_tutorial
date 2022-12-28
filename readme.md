@@ -6,8 +6,8 @@ Tutorial scripts to learn how to code with javascript
 
 ### Setup
 
-Install node in your local
-(WIP) Dockerize repository
+- Install node in your local
+- (WIP) Dockerize repository
 
 ### Run code
 

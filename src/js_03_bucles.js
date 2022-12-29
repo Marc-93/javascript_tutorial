@@ -30,3 +30,10 @@ for (k = 1; k < 4; k++)
         break
     }
 }
+
+// for in lists
+let list_of_names = ['marc', 'rachel', 'roy', 'ares']
+
+for (let name in list_of_names){
+    console.log(`[for] name: ${list_of_names[name]}`)
+}
